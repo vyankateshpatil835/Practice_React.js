@@ -4,6 +4,13 @@ node_modules
 package-lock.json
 package.json
 
+Cards_Basics/package-lock.json
+Cards_Basics/package.json
+Cards_Basics/cards/package-lock.json
+Cards_Basics/cards/package.json
+Notes_project/package-lock.json
+Notes_project/package.json
+
 
 Cards_Basics/node_modules
 Cards_Basics/cards/node_modules
