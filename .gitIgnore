@@ -1,6 +1,10 @@
 node_modules
 .env
 
+package-lock.json
+package.json
+
+
 Cards_Basics/node_modules
 Cards_Basics/cards/node_modules
 Notes_project/node_modules
